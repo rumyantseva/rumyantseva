@@ -3,7 +3,7 @@ Hello and welcome!
 I hope you will find something useful here 🤓
 
 My name is **Elena Grahovac**,
-I am an Engineering Manager at [@GetYourGuide](https://github.com/getyourguide).
+I am an [Engineering Manager](/EM.pdf) at [@GetYourGuide](https://github.com/getyourguide).
 
 The main topics of this account are **DevOps** culture and
 the **Go** programming language.
